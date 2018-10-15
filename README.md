@@ -5,3 +5,7 @@
 Start Project - React + Webpack 4
 
 [Project in production](https://competent-bose-0ca5a3.netlify.com/)
+#Whow to run the project
+First navigate to the project folder and open terminal. After this do an "npm install" command. This command will install the necessary dependencies for your program to work.
+After that, do a npm start command in the terminal, still in the project folder.
+
