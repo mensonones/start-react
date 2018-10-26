@@ -10,6 +10,6 @@ Start Project: React + Webpack 4
 
 ## How to run the project
 
-First navigate to the project folder and open terminal. After this do an "npm install" command. This command will install the necessary dependencies for your program to work.
-After that, do a npm start command in the terminal, still in the project folder.
+First navigate to the project folder and open terminal. After this do an `npm install` command. This command will install the necessary dependencies for your program to work.
+After that, do a `npm start` command in the terminal, still in the project folder.
 
