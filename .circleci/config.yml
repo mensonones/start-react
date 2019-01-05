@@ -34,6 +34,9 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run build
+      - run: npm install
+
+      # run build
       - run: npm run build
 
 
