@@ -4,6 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/027dbbdbd0f71bd9b046/maintainability)](https://codeclimate.com/github/mensonones/start-react/maintainability)
 [![CircleCI](https://circleci.com/gh/mensonones/start-react.svg?style=svg)](https://circleci.com/gh/mensonones/start-react)
 [![Known Vulnerabilities](https://snyk.io/test/github/mensonones/start-react/badge.svg?targetFile=package.json)](https://snyk.io/test/github/mensonones/start-react?targetFile=package.json)
+![Sonar Report](https://sonarcloud.io/api/project_badges/measure?project=mensonones_start-react&metric=alert_status)
 
 Start Project: React + Webpack 4
 
