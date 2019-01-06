@@ -4,7 +4,7 @@
   "description": "project start with react, webpack and babel",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
+    "start": "webpack-dev-server --mode development --open --hot --inline --content-base=dist --history-api-fallback",
     "build": "webpack --mode production --module-bind js=babel-loader",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
